@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad2/2014/fall/mdruiz/EECS112L/hw2/imem
+Eimem
+Z1 w1453487743
+Z2 DPx4 ieee 20 numeric_std_unsigned 0 22 jF^[l6kSe0l<k3W[UC=P83
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8imem.vhd
+Z6 Fimem.vhd
+l0
+L6
+VZ4;gnn]A[B6ZA<<[fcbz:3
+!s100 JcRioK5EG]jTz?Z_8BB[o2
+Z7 OL;C;10.4c;61
+32
+Z8 !s110 1453696070
+!i10b 1
+Z9 !s108 1453696070.000000
+Z10 !s90 -64|-f|rtl.cfg|
+Z11 !s107 imem.vhd|
+!i113 0
+Z12 tExplicit 1
+Abehave
+R2
+R3
+R4
+DEx4 work 4 imem 0 22 Z4;gnn]A[B6ZA<<[fcbz:3
+l15
+L14
+V^CbaaWTe95jKBnTVDfm=:2
+!s100 a>Hmde6CCY7IReAa<QBOX1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+vimem_tb
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1453696074
+!i10b 1
+!s100 <?lD7dQ6bX4?]bB@if69<0
+I4l;0amZ[linTjiMj5QbZX1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 imem_tb_sv_unit
+S1
+R0
+w1453489732
+8imem_tb.sv
+Fimem_tb.sv
+L0 1
+OL;L;10.4c;61
+r1
+!s85 0
+31
+!s108 1453696074.000000
+!s107 imem_tb.sv|
+!s90 -64|-sv|-f|tb.cfg|
+!i113 0
+o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Timem_tb_opt
+!s110 1453696083
+VX9_zV37gdiG6]zNiK1Kzc3
+04 7 4 work imem_tb fast 0
+o+acc=mpr
+nimem_tb_opt
+OL;O;10.4c;61

@@ -1,0 +1,13 @@
+ncvhdl: 06.20-s015: (c) Copyright 1995-2009 Cadence Design Systems, Inc.
+TOOL:	ncvhdl	06.20-s015: Started on Jan 10, 2016 at 23:19:11 PST
+ncvhdl
+    -messages
+    orgate.vhd
+
+orgate.vhd:
+	errors: 0, warnings: 0
+WORK.ORGATE (entity):
+	streams: 4, words: 18
+WORK.ORGATE:BEHAVIORAL (architecture):
+	streams: 1, words: 23
+TOOL:	ncvhdl	06.20-s015: Exiting on Jan 10, 2016 at 23:19:11 PST  (total: 00:00:00)

@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad2/2014/fall/mdruiz/EECS112L/mentor
+Ealu_32
+Z1 w1451877583
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8alu_32.vhd
+Z6 Falu_32.vhd
+l0
+L5
+VD:gYYe0F>_2LbD<el5=L10
+!s100 gheRzA<DjJ`C1?>If:kb:3
+Z7 OL;C;10.4c;61
+32
+Z8 !s110 1452536811
+!i10b 1
+Z9 !s108 1452536811.000000
+Z10 !s90 -64|-f|rtl.cfg|
+Z11 !s107 alu_32.vhd|
+!i113 0
+Z12 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 alu_32 0 22 D:gYYe0F>_2LbD<el5=L10
+l21
+L17
+VR;=UdLWB7[H8W0Qn`mT=i2
+!s100 Gi3D7n=mF3UAIg>;fNLZ>2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+valu_32_tb
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1452536828
+!i10b 1
+!s100 @`=agOhd73?iAW_aE`7VZ1
+IeRYNiK3jBPa9iZgmkE<541
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_32_tb_sv_unit
+S1
+R0
+R1
+8alu_32_tb.sv
+Falu_32_tb.sv
+L0 1
+OL;L;10.4c;61
+r1
+!s85 0
+31
+!s108 1452536828.000000
+!s107 alu_32_tb.sv|
+!s90 -64|-sv|-f|tb.cfg|
+!i113 0
+o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Talu_32_tb_opt
+!s110 1452536862
+V`eWdSYmS859MnT0K[`1mX1
+04 9 4 work alu_32_tb fast 0
+o+acc=mpr
+nalu_32_tb_opt
+OL;O;10.4c;61

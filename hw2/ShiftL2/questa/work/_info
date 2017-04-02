@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad2/2014/fall/mdruiz/EECS112L/hw2/ShiftL2
+Eshiftl2
+Z1 w1453409404
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8ShiftL2.vhd
+Z6 FShiftL2.vhd
+l0
+L5
+V?l:KFfEDCf0>3?I9i?X7E2
+!s100 :jm>oT>1LE9A[];PDHR9?1
+Z7 OL;C;10.4c;61
+32
+Z8 !s110 1453409790
+!i10b 1
+Z9 !s108 1453409790.000000
+Z10 !s90 -64|-f|rtl.cfg|
+Z11 !s107 ShiftL2.vhd|
+!i113 0
+Z12 tExplicit 1
+Abeh
+R2
+R3
+R4
+DEx4 work 7 shiftl2 0 22 ?l:KFfEDCf0>3?I9i?X7E2
+l15
+L13
+V3;C4IMjR>2ZSLZa918eHK1
+!s100 TeSan;OYPh_Dl4JfeeZgD2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+vShiftL2_tb
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1453409792
+!i10b 1
+!s100 Nh=L]SjHTS^g][_Ie=_im2
+ImR=2ik4ANCT`oBiA@:XJK3
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 ShiftL2_tb_sv_unit
+S1
+R0
+w1453409736
+8ShiftL2_tb.sv
+FShiftL2_tb.sv
+L0 1
+OL;L;10.4c;61
+r1
+!s85 0
+31
+!s108 1453409792.000000
+!s107 ShiftL2_tb.sv|
+!s90 -64|-sv|-f|tb.cfg|
+!i113 0
+o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@shift@l2_tb
+TShiftL2_tb_opt
+!s110 1453409796
+VETfAJ7gM4JmnWeUCa<Rb`1
+04 10 4 work ShiftL2_tb fast 0
+o+acc=mpr
+n@shift@l2_tb_opt
+OL;O;10.4c;61

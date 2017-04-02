@@ -1,0 +1,12 @@
+ncsim: 06.20-s015: (c) Copyright 1995-2009 Cadence Design Systems, Inc.
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm -all -variables -depth all
+Created probe 1
+ncsim> run 50 ns
+Ran until 50 NS + 0
+ncsim> simvision
+ncsim: *E,TCLERR: SimVision process terminated before a connection was established..
+ncsim> simvision &
+ncsim: *E,TCLERR: SimVision process terminated before a connection was established..
+ncsim> exit
